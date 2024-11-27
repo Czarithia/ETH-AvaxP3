@@ -37,3 +37,5 @@ The inherited ERC20 transfer function can be used for token transfers between us
 Check Balance:
 Use the inherited ERC20 balanceOf function to query a user's balance.
 
+# Authors
+Prinz Yanquiling
